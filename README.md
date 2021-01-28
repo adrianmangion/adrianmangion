@@ -17,4 +17,4 @@ Coding for me is a form of art. It encapsulates within it creative logical solut
 - I am also employed with a private company as a junior software developer. I worked 6 months full-time and have switched to part-time to focus on the final year of the degree.
 
 <h2>Fun fact:</h2>
-I remember as a little kid I used to sit down in front of my dads' switched off laptop and pretend to be coding for hours. I wasn't allowed to turn it on because he used it for work but that didn't stop me from enjoying the fruits of my imagination. 
+I remember as a little kid I used to sit down in front of my dads' switched off laptop and pretend to be code, imagining all kinds of outcomes 😂.
