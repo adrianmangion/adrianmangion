@@ -13,6 +13,6 @@ Coding for me is a form of art. Plain and simple. It encapsulates within it crea
 
 <h2>Current work</h2>
 - I’m currently enrolled as a full-time student at Middlesex University (Malta) where my main focus is on my thesis titled 'Improving customer experience using sentiment analysis on Amazon reviews in the smartphone domain with consideration of fraudulent reviews'. <br/>
-- I also work part-time with a private comapny as a junior software developer.
+- I am also employed with a private company as a junior software developer. I worked 6 months full-time and have switched to part-time to focus on the final year of the degree.
 
 
