@@ -1,5 +1,7 @@
 ### Hi, I'm Adrian! 👋
 
+![Profile Card](https://github.com/adrianmangion/adrianmangion/blob/main/Title%20Page.jpg?raw=true)
+
 - My Journey: 
 I remember as a little kid I used to sit down in front of my dad's switched off laptop and pretend to be coding for hours. I wasn't allowed to turn it on because he used it for work but that didn't stop me from enjoying the fruits of my imagination. I started coding back in 2014 using Java when I was 15 years old. A year later I was meant to sit for my Computing oridinary-level exam which was supposed to be a stepping stone towards the continuation of my studies in the domain. However, due to unseen circumstances I could not sit for the exam and thus had to continue studying in a different path. One that involved studying English and Maltese at an advanced level and then sitting for a semester of law. 
 Law was never my calling. Fast forward 6 years from my first coding experience and here I am, currently sitting for my final year of a 3-year degree in Computer Science and System's Engineering with a year of professional programming experience. 
