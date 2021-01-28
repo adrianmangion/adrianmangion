@@ -11,7 +11,7 @@ Law was never my calling. Fast forward 6 years from my first coding experience a
 
 Coding for me is a form of art. Plain and simple. It encapsulates within it creative logical solutions which are unique to the way I reason out problems. It also gives me great pleasure to see clean code that serves a specific purpose. Throughout the past year of coding in a professional environment, I have also felt a greater sense of appreciation to offering solutions to clients.
 
-Current work:
+<h2>Current work</h2>
 - I’m currently enrolled as a full-time student at Middlesex University (Malta) where my main focus is on my thesis titled 'Improving customer experience using sentiment analysis on Amazon reviews in the smartphone domain with consideration of fraudulent reviews'.
 - I also work part-time with a private comapny as a junior software developer.
 
