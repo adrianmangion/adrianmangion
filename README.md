@@ -16,5 +16,3 @@ Coding for me is a form of art. It encapsulates within it creative logical solut
 - I’m currently enrolled as a full-time student at Middlesex University (Malta) where my main focus is on my thesis titled 'Improving customer experience using sentiment analysis on Amazon reviews in the smartphone domain with consideration of fraudulent reviews'. <br/>
 - I am also employed with a private company as a junior software developer. I worked 6 months full-time and have switched to part-time to focus on the final year of the degree.
 
-<h2>Fun fact:</h2>
-I remember as a little kid I used to sit down in front of my dads' switched off laptop and pretend to be code, imagining all kinds of outcomes 😂.
