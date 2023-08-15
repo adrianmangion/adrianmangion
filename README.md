@@ -1,7 +1,5 @@
 ### <h1>Hi, I'm Adrian! 👋 </h1>
 
-![Profile Card](https://github.com/adrianmangion/adrianmangion/blob/main/Profile%20Card.jpg?raw=true)
-
 <h2>My Journey</h2>
 
 I started coding back in 2014 using Java when I was 15 years old. A year later I was meant to sit for my computing o-level exam which was meant to be the stepping stone towards the continuation of my studies in the domain. However, due to unseen circumstances I could not sit for the exam and thus ventured on a different path. One that involved studying English and Maltese at an advanced level and a semester of first year law. 
