@@ -13,6 +13,6 @@ I soon realized that law wasn't my calling and I turned back to what I remained 
 Coding for me is a form of art where the artist comes up with creative logical solutions to any problem given. It's a matter of understanding the problem and breaking it down into smaller tasks. It gives me great pleasure to see clean code that serves a specific purpose. Throughout the past year of coding in a professional environment, I have also felt a greater sense of appreciation to offering solutions to clients who use them to enhance the quality of their work.
 
 <h2>Current work</h2>
-- I’m currently enrolled as a full-time student at Middlesex University (Malta) where my main focus is on my thesis titled 'Improving customer experience using sentiment analysis on Amazon reviews in the smartphone domain with consideration of fraudulent reviews'. <br/>
-- I am also employed with a private company as a junior software developer. I worked 6 months full-time and have switched to part-time to focus on the final year of the degree.
+- I’m currently employed with EML Payments, a fintech company, as a full-stack developer, where I deal with financial related queries.
+- Tech stack: .NET, React, Mssql
 
